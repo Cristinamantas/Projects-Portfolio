@@ -1,0 +1,1 @@
+R scripts created during my internship with Operation Wallacea, analyzing coral reef fish communities in Honduras. Includes species-depth plots, correlation analyses, and site-based visualizations using ggplot2.
