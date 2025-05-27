@@ -1,6 +1,6 @@
 # Projects Portfolio
 
-This repository showcases a selection of data analysis projects completed during my education and internships. The work spans different domains, with a focus on data cleaning, visualization, and interpretation using **Python**, **R**, and **Jupyter Notebooks**, developed in **VS Code** and **RStudio Cloud**.
+This repository features a selection of data analysis projects completed during my education and internships. The projects span various domains and focus on data cleaning, visualization, and interpretation using **Python** and **R**. All work was developed using tools such as **Jupyter Notebooks**, **VS Code**, and **RStudio Cloud**.
 
 ---
 
